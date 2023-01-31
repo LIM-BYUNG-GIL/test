@@ -131,3 +131,10 @@ git 운영법 (git flow)
         git push (dev 브랜치에 현재 코드 복사)
 
         git branch feature
+        git add . / commit
+
+        git checkout dev
+        git merge feature
+
+        git push
+        git branch -d feature
